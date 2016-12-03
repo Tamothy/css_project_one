@@ -12,6 +12,7 @@ body {
 p::before {
     content: "Carpe diem -";
     font-weight: bold;
+    font-style: italic;
 }
 
 p::first-letter {
