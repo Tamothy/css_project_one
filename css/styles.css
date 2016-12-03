@@ -9,6 +9,15 @@ body {
   text-align: center;
   padding: 20px;
 }
+p::before {
+    content: "Carpe diem -";
+    font-weight: bold;
+}
+
+p::first-letter {
+    color: #EC5D62;
+    font-size: xx-large;
+}
 
 /*main section*/
 
